@@ -7,7 +7,7 @@ var e = +prompt("Enter Your Pakistan Studies Marks")
 // console.log(a,b,c,d)
 
 var sum = (a+b+c+d+e)
-console.log(sum)
+// console.log(sum)
 
 var total = sum / 500 * 100
 
